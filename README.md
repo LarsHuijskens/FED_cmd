@@ -36,7 +36,7 @@ Surface plain
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-Frend page in de stijl van youtube (dark mode)
+https://www.1707maarssen.nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
