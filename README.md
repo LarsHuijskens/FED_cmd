@@ -78,7 +78,7 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+I k ben begonnen maar ik moet nog meer uuren per week gaan leren hoe ik de basis kan maken zodat ik de nieuwe dingen die we in css leren ook kan gaan toepassen op mijn eiggen website. 
 
 
 ### Agenda voor meeting
